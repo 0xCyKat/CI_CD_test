@@ -18,4 +18,4 @@ mongoose.connect("mongodb://127.0.0.1:27017/", {
   dbName: "courses",
 });
 
-app.listen(3000, () => console.log("Server running on port 3000 - hi"));
+app.listen(3000, () => console.log("Server running on port 3000 - hello"));
