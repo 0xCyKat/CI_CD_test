@@ -1,1 +1,1 @@
-ssh-keyscan ec2-url >> known_hosts
+ssh-keyscan 98.70.35.3 >> known_hosts
